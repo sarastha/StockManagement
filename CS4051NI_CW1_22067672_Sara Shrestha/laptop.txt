@@ -1,0 +1,5 @@
+1,Razer Blade, Razer, 2000,47, i7 7th Gen, GTX 3060
+2,Asus TUF, Dell, 1000,49, i5 9th Gen, GTX 3070
+3,Asus Zen, Asus , 1800,47, i5 9th Gen, GTX 3070
+4,Inspiron, Acer, 900,49, i5 9th Gen, GTX 3070
+5,Macbook Pro, Apple, 3500,50, i5 9th Gen, GTX 3070
